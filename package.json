@@ -1,0 +1,25 @@
+{
+  "name": "learn-html",
+  "version": "1.0.0",
+  "description": "my html",
+  "main": "",
+  "scripts": {
+    "lint": "eslint src/ --fix",
+    "format": "prettier --write src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bantamer/HTML.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bantamer/HTML/issues"
+  },
+  "homepage": "https://github.com/bantamer/HTML#readme",
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-prettier": "^8.1.0",
+    "prettier": "^2.2.1"
+  }
+}
